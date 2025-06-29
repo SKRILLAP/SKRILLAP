@@ -1,8 +1,3 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/fVeAI9dyEjeWc/giphy.gif" alt="neon waveform banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Aryan Pal</h1>
 <h3 align="center">Final-year B.Tech. student at LNMIIT</h3>
 
@@ -54,22 +49,6 @@
 
 ### 🧠 Others
 Oracle UIM • Oracle NI • Eclipse Design Studio
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKRILLAP&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRILLAP&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎵 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-now-playing-ashy.vercel.app/api/spotify" alt="Now Playing on Spotify" width="450" />
-</p>
 
 ---
 
