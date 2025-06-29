@@ -2,8 +2,8 @@
 <h3 align="center">Final-year B.Tech. student at LNMIIT</h3>
 
 <p align="center">
-🌱 Exploring full-stack development, real-world software, and everything in between.<br>
-🚀 Building things that solve real problems — clean, fast & scalable.
+ Exploring full-stack development, real-world software, and everything in between.<br>
+ Building things that solve real problems — clean, fast & scalable.
 </p>
 
 ---
@@ -16,27 +16,27 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 
-### 🔧 Backend
+###  Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_API-%23f0db4f.svg?style=flat-square&logo=flask&logoColor=black)
 
-### 🗄️ Databases
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -47,7 +47,7 @@
 ![Render](https://img.shields.io/badge/Render-2f3241?style=flat-square&logo=render&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🧠 Others
+###  Others
 Oracle UIM • Oracle NI • Eclipse Design Studio
 
 ---
