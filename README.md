@@ -32,7 +32,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_API-%23f0db4f.svg?style=flat-square&logo=flask&logoColor=black)
 
-### 🗄 Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
