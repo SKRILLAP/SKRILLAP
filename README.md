@@ -55,4 +55,3 @@ Oracle UIM • Oracle NI • Eclipse Design Studio
 ## 🤝 Let's Collaborate
 
 > Building things that matter, with people who care.
-> [![An image of @skrillap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skrillap)](https://holopin.io/@skrillap)
